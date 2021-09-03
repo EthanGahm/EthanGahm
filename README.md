@@ -1,4 +1,4 @@
-# I'm Ethan, a computer science student at the University of Virginia with an interest in web development and software design.
+### I'm Ethan, a computer science student at the University of Virginia with an interest in web development and software design.
 
 ## Contact
 * Email: EthanGahm@Virginia.edu
